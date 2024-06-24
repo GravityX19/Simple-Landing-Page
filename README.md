@@ -1,2 +1,2 @@
 # Simple-Landing-Page
-Simple landing page for marketing
+Free landing page for marketing
